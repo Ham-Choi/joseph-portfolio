@@ -1,20 +1,26 @@
 export default [
     {
         year: 'Today',
-        title: 'TBA',
-        duration: '',
-        details: '',
+        title: 'ISO need job plis',
+        duration: 'lifelong hustle',
+        details: 'Desperate need of monies please',
     },
     {
-        year: 'Today',
-        title: 'TBA',
+        year: '2022',
+        title: 'Personal Projects',
         duration: '',
-        details: '',
+        details: 'American Nail Spa and Stonk Trader',
     },
     {
-        year: 'Today',
-        title: 'TBA',
+        year: '2022',
+        title: "Bachelor's Degree in Computer Science",
+        duration: '5 years',
+        details: 'I graduated from the University of North Carolina at Chapel Hill',
+    },
+    {
+        year: '2017',
+        title: 'First line of code',
         duration: '',
-        details: '',
+        details: 'Java',
     },
 ]
