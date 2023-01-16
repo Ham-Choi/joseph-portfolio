@@ -7,6 +7,7 @@ import Footer from './components/Footer'
 import Resume from './components/Resume'
 import Navigator from './components/Navigator'
 
+
 function App() {
   const[theme, setTheme] = useState(null);
 

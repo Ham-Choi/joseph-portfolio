@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function Navigator() {
    return (
     <nav className="bg-white px-2 sm:px-4 py-2.5 dark:bg-stone-900 fixed w-full z-20 top-0 left-0 dark:border-gray-600">
