@@ -4,14 +4,14 @@ function PortfolioItem({title, imgUrl, stack, link}) {
     return (
         <a 
             href={link}
-            target="_blank"
+            //target="_blank"
             rel="noopener noreferrer"    
             className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"
         >
             <img 
             src={imgUrl}
             alt="portfolio" 
-            className= "w-full h-36 md:h-48 object-cover cursor-pointer"
+            className= "w-full h-36 md:h-48 object-contain cursor-pointer"
             />
             <div className="w-full p-4 dark:text-white">
                 <h3 className="text-lg md:text-xl hover:underline mb mb-2 md:mb-3 font-semibold"> {title} </h3>

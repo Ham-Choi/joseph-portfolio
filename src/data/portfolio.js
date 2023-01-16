@@ -1,20 +1,20 @@
 export default [
     {
+        title: 'Developer Portfolio',
+        imgUrl: '/assets/Portfolio.jpg',
+        stack: ['React', 'Tailwind', 'Vite'],
+        link: '#',
+    },
+    {
         title: 'Stonk Trader',
-        imgUrl: '/assets/first.jpg',
+        imgUrl: '/assets/UCC.jpg',
         stack: ['HTML', 'CSS', 'JavaScript'],
-        link: 'https://google.com',
+        link: '#',
     },
     {
         title: 'American Nail Spa',
-        imgUrl: '/assets/second.jpg',
+        imgUrl: '/assets/UCC.jpg',
         stack: ['HTML', 'CSS', 'JavaScript'],
-        link: 'https://google.com',
-    },
-    {
-        title: 'Developer Portfolio',
-        imgUrl: '/assets/third.jpg',
-        stack: ['React', 'Tailwind', 'Vite'],
-        link: 'https://google.com',
+        link: '#',
     },
 ]
