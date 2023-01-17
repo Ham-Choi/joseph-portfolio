@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: git-checkout
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
 
       - name: Install all dependencies
         run: npm install
