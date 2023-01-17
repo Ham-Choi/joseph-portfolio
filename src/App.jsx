@@ -1,11 +1,11 @@
 import React, {useEffect, useState} from 'react'
-import Intro from './components/Intro'
-import Timeline from './components/Timeline'
-import Portfolio from './components/Portfolio'
-import Contact from './components/Contact'
-import Footer from './components/Footer'
-import Resume from './components/Resume'
-import Navigator from './components/Navigator'
+import Intro from './components/Intro.jsx'
+import Timeline from './components/Timeline.jsx'
+import Portfolio from './components/Portfolio.jsx'
+import Contact from './components/Contact.jsx'
+import Footer from './components/Footer.jsx'
+import Resume from './components/Resume.jsx'
+import Navigator from './components/Navigator.jsx'
 
 
 function App() {
