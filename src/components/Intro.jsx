@@ -8,7 +8,7 @@ function Intro() {
             <p className="text-sm mb-6 max-w-xl font-bold">I am a recent UNC-Chapel Hill computer scientist graduate trying to explore and 
             navigate the technologial world in a digital era.  With familiarity in Agile development settings and cloud computing concepts,
             I am currently seeking ways to increase my coding knowlege and experience through collaboration with 
-            teammates</p>
+            teammates.</p>
         </div>
     )
 }
